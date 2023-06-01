@@ -1,4 +1,10 @@
-## Hi there 👋
+## ChuloAI
+
+Developing **cute** Open-Source LLM Software
+
+Visit our main repo for more:
+https://github.com/ChuloAI/BrainChulo
+
 
 <!--
 
